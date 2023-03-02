@@ -1,5 +1,5 @@
 {
-  "name": "movie_app_2020",
+  "name": "movie-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -32,5 +32,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://jiwonnoh.github.io/movie-app"
+  "homepage": "https://no-support.github.io/movie-app"
 }
